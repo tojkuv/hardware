@@ -3,7 +3,7 @@
 - stabalize layout before itrating over the keyboard components
 
 # Layout
-
+- [current prototype iteration](https://configure.zsa.io/moonlander/layouts/DNZPN/latest/0)
 #### Guidelines:
 
 - Promote alternating between hands over uncomfortable same-hand transitions.
