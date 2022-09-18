@@ -325,7 +325,7 @@ The numbers are flanked to the left and right by [square brackets], and
 paired with a mathematical or logic symbol accessed by the Shift key:
 
 ### References
-- [Historical context of qwerty](https://books.google.com/books?id=pzj90slTTEIC&lpg=PA59&pg=PA59#v=onepage&q&f=true) 
+- [Historical context of the QWERTY Layout](https://books.google.com/books?id=pzj90slTTEIC&lpg=PA59&pg=PA59#v=onepage&q&f=true) 
 - [Engram layout](https://engram.dev/)
 
 
