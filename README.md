@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hardware
 
 ## Keyboard
