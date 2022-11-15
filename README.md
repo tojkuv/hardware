@@ -5,6 +5,7 @@
 ### Layout
 
 - [prototype](https://configure.zsa.io/moonlander/layouts/DNZPN/latest/0).
+- TODO: try other firmware frameworks.
 
 ### Components
 
