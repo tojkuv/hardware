@@ -4,16 +4,18 @@
 
 ### Layout
 
-- [prototype](https://configure.zsa.io/moonlander/layouts/DNZPN/latest/0).
+- [str_-neai prototype](https://configure.zsa.io/moonlander/layouts/b7o47/latest/0).
+
+### firmware 
 - TODO: try other firmware frameworks.
 
+
 ### Components
-
 #### Printed Circuit Board
-
-TODO.
-
-
+TODO: iterate over shape
+#### micro-controller
+TODO: wireless microcontroller 
+#### ...
 
 ### Typing Practice
 
